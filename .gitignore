@@ -9,9 +9,13 @@ __pycache__/
 *.csv
 *.xlsx
 !final_data.csv
+!example_data*.csv
 
 # exclude images
 
 
 #exclude design files
 *.ai
+
+#exclude reference files
+D3_code_snippets/*
