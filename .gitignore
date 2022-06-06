@@ -11,6 +11,11 @@ __pycache__/
 !final_data.csv
 !example_data*.csv
 
+#exclude geo data
+*.geojson
+*.shp
+*.shx
+
 # exclude images
 
 
